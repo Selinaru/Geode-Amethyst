@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Geode-Amethyst
+Comment=Cinnamon and Mint-Y based theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Geode-Amethyst
+MetacityTheme=Geode-Amethyst
+IconTheme=Geode-Amethyst
+CursorTheme=Bibata-Modern-Classic
+ButtonLayout=:minimize,maximize,close
